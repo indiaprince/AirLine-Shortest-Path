@@ -21,7 +21,7 @@ drive.mount('/content/drive')
 #### **3) Importing Data**
 DATA : South_Korea_airport_toy_example.csv
 ```ts
-df = pd.read_csv('/content/drive/MyDrive/Algorithm_Team_Project1/South_Korea_airport_toy_example.csv')
+df = pd.read_csv('/content/drive/MyDrive/~~~~/South_Korea_airport_toy_example.csv')
 df.head()
 ```
 [Expected Result:]
